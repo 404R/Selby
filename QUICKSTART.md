@@ -35,7 +35,7 @@ This project supports Linux (Debian based), Mac, and Windows Subsystem for Linux
 
 4. **Setup the Project**
     Next we need to setup the required dependencies. We have a tool for helping you do all the tasks you need to on the repo.
-    It can be accessed by running the `run` command by typing `./run` in the terminal.
+    It can be accessed by running the `run` command by typing `./run` in the terminal. On Windows, you can call `run.bat` instead.
 
     The first command you need to use is `./run setup` This will guide you through the process of setting up your system.
     Initially you will get instructions for installing flutter, chrome and setting up your github access token like the following image:

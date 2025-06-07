@@ -79,11 +79,13 @@ Options:
 Commands:
   agent      Commands to create, start and stop agents
   arena      Commands to enter the arena
-  benchmark  Commands to start the benchmark and list tests and categories
-  setup      Installs dependencies needed for your system.
+benchmark  Commands to start the benchmark and list tests and categories
+setup      Installs dependencies needed for your system.
 ```
 
 Just clone the repo, install dependencies with `./run setup`, and you should be good to go!
+
+Windows users who are not using WSL can instead run `run.bat`, which simply invokes `python cli.py` with any arguments you pass.
 
 ## 🤔 Questions? Problems? Suggestions?
 
